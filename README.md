@@ -6,6 +6,8 @@ The goal is to create a parallax stars effect. This is an old demo effect with s
 There are larger stars in front which move faster and smaller star in the back which move slower.
 Another goal is to use as few resources as possible so it can be used as the background effect of a game.
 
+![preview screenshot](https://raw.githubusercontent.com/BdR76/phaserparallax/master/screenshot.png)
+
 For more info see:  
 http://phaser.io/  
 http://www.html5gamedevs.com/forum/14-phaser/
